@@ -1,37 +1,16 @@
 <template>
   <div id='app'>
-    <VideoList :videos="videos"/>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-  import VideoList from './VideoList.vue'
-  import axios from 'axios'
-
   export default {
-    components: {
-      VideoList,
-    },
     data: function () {
       return {
-        videos: []
+        message: "Welcome to asas!"
       }
-    },
-    created () {
-      const vm = this
-      axios.get('/videos', {
-        params: {
-          page: 2,
-        },
-        data: {},
-        headers: {
-          'Accept': 'application/json',
-          'Content-Type': 'application/json'
-        }
-      }).then(response => {
-        this.videos = response['data']['videos']
-      })
-    },
+    }
   }
 </script>
 
