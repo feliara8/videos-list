@@ -1,0 +1,7 @@
+json.access_token    @result['access_token']
+json.token_type      @result['token_type']
+json.expires_in      @result['expires_in']
+json.refresh_token   @result['refresh_token']
+json.grant_type      @result['grant_type']
+json.scope           @result['scope']
+json.created_at      @result['created_at']

@@ -1,0 +1,1833 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"provider",
+				"provider_request"
+			],
+			[
+				"provi",
+				"provider_request"
+			],
+			[
+				"inter",
+				"interaction"
+			],
+			[
+				"Time",
+				"Timecop"
+			],
+			[
+				"birth",
+				"birth_certificate"
+			],
+			[
+				"current",
+				"currentFacility"
+			],
+			[
+				"simu",
+				"simulationConfig"
+			],
+			[
+				"scheud",
+				"scheduled_interaction"
+			],
+			[
+				"shc",
+				"scheduled_interaction"
+			],
+			[
+				"scheduled_",
+				"scheduled_interaction"
+			],
+			[
+				"outrea",
+				"outreach_action"
+			],
+			[
+				"outre",
+				"outreach_action"
+			],
+			[
+				"p",
+				"outreach_program"
+			],
+			[
+				"outr",
+				"outreach_action"
+			],
+			[
+				"out",
+				"outreach_action"
+			],
+			[
+				"voice",
+				"voice_attempt"
+			],
+			[
+				"Outer",
+				"OutreachChannel"
+			],
+			[
+				"enrollmen",
+				"enrollment_timeframe"
+			],
+			[
+				"matche",
+				"matches_criteria"
+			],
+			[
+				"ou",
+				"outreach_program"
+			],
+			[
+				"care_",
+				"care_provider_id"
+			],
+			[
+				"perf",
+				"perform_async"
+			],
+			[
+				"outreac",
+				"outreach_program"
+			],
+			[
+				"co",
+				"compatible_with"
+			],
+			[
+				"inb",
+				"inbound_intro_message"
+			],
+			[
+				"ski",
+				"skip_outreach_action_questions_for_inbound"
+			],
+			[
+				"inbound",
+				"inbound_only_intro"
+			],
+			[
+				"outreach",
+				"outreach_program_parser"
+			],
+			[
+				"oute",
+				"outreach_program_parser"
+			],
+			[
+				"inbo",
+				"inbound_intro_message"
+			],
+			[
+				"te",
+				"temporary_previous_channel"
+			],
+			[
+				"Ar",
+				"ArchivedCallAttempt"
+			],
+			[
+				"new",
+				"new_call_index"
+			],
+			[
+				"phone",
+				"phone_lookup"
+			],
+			[
+				"our",
+				"outreach_action"
+			],
+			[
+				"call",
+				"call_attempt"
+			],
+			[
+				"deta",
+				"details_update"
+			],
+			[
+				"outreahc_",
+				"outreach_action"
+			],
+			[
+				"outreach_",
+				"outreach_program_name"
+			],
+			[
+				"bulk",
+				"bulk_call_attempts"
+			],
+			[
+				"encounter",
+				"encounter_date"
+			],
+			[
+				"target",
+				"target_date_to_shift"
+			],
+			[
+				"sch",
+				"scheduler_class"
+			],
+			[
+				"Call",
+				"CallService"
+			],
+			[
+				"allow",
+				"allowable_call_days"
+			],
+			[
+				"label",
+				"label_values"
+			],
+			[
+				"cri",
+				"criteria_values"
+			],
+			[
+				"VOC",
+				"VOICE_AND_SMS"
+			],
+			[
+				"lock_",
+				"lock_communication_channels"
+			],
+			[
+				"chann",
+				"channel_is_webform"
+			],
+			[
+				"base",
+				"base_outreach_action"
+			],
+			[
+				"que",
+				"question_index"
+			],
+			[
+				"question",
+				"question_index"
+			],
+			[
+				"ques",
+				"question_index"
+			],
+			[
+				"qu",
+				"question_index"
+			],
+			[
+				"regular",
+				"regular_length"
+			],
+			[
+				"dat",
+				"date_of_unenrollment"
+			],
+			[
+				"care",
+				"care_management_enrollment"
+			],
+			[
+				"inii",
+				"intitial_cme_status"
+			],
+			[
+				"initial",
+				"intitial_cme_status"
+			],
+			[
+				"webform",
+				"webform_email"
+			],
+			[
+				"span",
+				"span_string"
+			],
+			[
+				"active",
+				"active_program_ids"
+			],
+			[
+				"depart",
+				"department_phone"
+			],
+			[
+				"ex",
+				"expected_message"
+			],
+			[
+				"st",
+				"statistics_thread"
+			],
+			[
+				"numer",
+				"number_field"
+			],
+			[
+				"field",
+				"field_value"
+			],
+			[
+				"task_st",
+				"task_stat_for_current_user"
+			],
+			[
+				"task_s",
+				"task_stat_for_current_user"
+			],
+			[
+				"sort",
+				"sortFiltersIndex"
+			],
+			[
+				"sor",
+				"sortFiltersIndex"
+			],
+			[
+				"wel",
+				"welcome_message_text"
+			],
+			[
+				"firs",
+				"first_question_text"
+			],
+			[
+				"wem",
+				"welcome_message_text"
+			],
+			[
+				"Com",
+				"Communication"
+			],
+			[
+				"we",
+				"welcome_message"
+			],
+			[
+				"incl",
+				"include_welcome_message"
+			],
+			[
+				"is",
+				"IS_NUMBER_REGEX"
+			],
+			[
+				"item",
+				"itemTypesByKey"
+			],
+			[
+				"get",
+				"getCriteriumChoices"
+			],
+			[
+				"c",
+				"criterium_choices"
+			],
+			[
+				"da",
+				"date_of_call_hour"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"ac",
+				"actual_archived_launched_in_hour"
+			],
+			[
+				"act",
+				"actual_calls_launched_in_hour"
+			],
+			[
+				"all",
+				"all_call_hour_call_attempts"
+			],
+			[
+				"actu",
+				"actual_launched"
+			],
+			[
+				"has",
+				"has_to_launch"
+			],
+			[
+				"Patien",
+				"PatientMessageIssueSerializer"
+			],
+			[
+				"ev",
+				"evolve_patient_chat"
+			],
+			[
+				"Evolv",
+				"EvolveMessageCenter"
+			],
+			[
+				"upc",
+				"upcoming_tasks_count"
+			],
+			[
+				"overdu",
+				"overdueTasksCount"
+			],
+			[
+				"was_",
+				"was_today"
+			],
+			[
+				"due_",
+				"due_today_count"
+			],
+			[
+				"due",
+				"due_today_count"
+			],
+			[
+				"message",
+				"message_input"
+			],
+			[
+				"tabl",
+				"tabletMinWidth"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"last",
+				"lastReadTime"
+			],
+			[
+				"was",
+				"wasCollapsed"
+			],
+			[
+				"chat",
+				"chatRoomMessages"
+			],
+			[
+				"curre",
+				"currentPatient"
+			],
+			[
+				"unrea",
+				"unreadActiveIssuesById"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"Chat",
+				"ChatStore"
+			],
+			[
+				"chatR",
+				"chatRoomId"
+			],
+			[
+				"chatRoom",
+				"chatRoomMessages"
+			],
+			[
+				"in",
+				"unreadMessageIndex"
+			],
+			[
+				"cha",
+				"chatRoomMessages"
+			],
+			[
+				"mess",
+				"messagesByChatRoomId"
+			],
+			[
+				"mes",
+				"messagesByChatRoomId"
+			],
+			[
+				"pati",
+				"participantIds"
+			],
+			[
+				"curren",
+				"currentUser"
+			],
+			[
+				"Pat",
+				"PatientIssuesCableProvider"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"sub",
+				"subscriptionParams"
+			],
+			[
+				"Mess",
+				"MessageCenterChat"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"acti",
+				"activeCollapsed"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"C",
+				"ChatPanelItem"
+			],
+			[
+				"fetc",
+				"fetch_chat_room"
+			],
+			[
+				"atlas",
+				"atlas_messages"
+			],
+			[
+				"pat",
+				"patient_facing"
+			],
+			[
+				"par",
+				"participant_ids"
+			],
+			[
+				"t",
+				"translations"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1946,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/app/javascript/packs/application.js",
+			"settings":
+			{
+				"buffer_size": 292,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/Procfile",
+			"settings":
+			{
+				"buffer_size": 61,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/yarn.lock",
+			"settings":
+			{
+				"buffer_size": 334282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/felipearaujo/src/zype_videos/zype_videos/config/environments/development.rb",
+			"settings":
+			{
+				"buffer_size": 2241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.vue",
+			"settings":
+			{
+				"buffer_size": 291,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n\t\"folders\":\n\t[\n\t\t{\n\t\t\t\"path\": \"/Users/felipearaujo/src/zype_videos\"\n\t\t}\n\t]\n}\n",
+			"file": "zype.sublime-project",
+			"file_size": 79,
+			"file_write_time": 132476028802463369,
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/felipearaujo/src/zype_videos",
+		"/Users/felipearaujo/src/zype_videos/zype_videos",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/app",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/app/javascript",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/app/javascript/components",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/app/javascript/packs",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/bin",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/db",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/lib",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/storage",
+		"/Users/felipearaujo/src/zype_videos/zype_videos/test"
+	],
+	"file_history":
+	[
+		"/Users/felipearaujo/Documents/app.2020-10-13.log.gz.n$t",
+		"/Users/felipearaujo/src/banff/spec/presenters/issues/related_interactions_presenter_spec.rb",
+		"/Users/felipearaujo/src/banff/features/step_definitions/related_settings_steps.rb",
+		"/Users/felipearaujo/src/banff/features/step_definitions/related_interaction_steps.rb",
+		"/Users/felipearaujo/src/banff/app/views/beta/patients/show.html.haml",
+		"/Users/felipearaujo/src/banff/app/views/open_issues/_open_issue.html.haml",
+		"/Users/felipearaujo/src/banff/app/controllers/issues_controller.rb",
+		"/Users/felipearaujo/src/banff/app/presenters/related_interactions_presenter.rb",
+		"/Users/felipearaujo/src/banff/app/views/user_interactions/_interaction.html.haml",
+		"/Users/felipearaujo/src/banff/app/views/patient_survey_interactions/_interaction.html.haml",
+		"/Users/felipearaujo/src/banff/app/presenters/patient_presenter_interactions_presenter.rb",
+		"/Users/felipearaujo/src/banff/spec/factories/outreach_programs_factory.rb",
+		"/Users/felipearaujo/src/banff/app/models/outreach_action.rb",
+		"/Users/felipearaujo/src/banff/app/services/enroll_service/outreach_program_enroller.rb",
+		"/Users/felipearaujo/src/banff/app/services/enroll_service/post_date_enroller.rb",
+		"/Users/felipearaujo/src/banff/app/services/enroll_service/base_enroller.rb",
+		"/Users/felipearaujo/src/banff/app/workers/reevaluate_calls_worker.rb",
+		"/Users/felipearaujo/src/banff/app/workers/reevaluate_not_matching_calls_worker.rb",
+		"/Users/felipearaujo/src/banff/app/services/call_service/scheduler.rb",
+		"/Users/felipearaujo/src/banff/app/services/call_service/backward_scheduler.rb",
+		"/Users/felipearaujo/src/banff/app/services/call_service/forward_scheduler.rb",
+		"/Users/felipearaujo/src/banff/spec/factories/issue_panels_factory.rb",
+		"/Users/felipearaujo/src/banff/features/voice/issues/related_interactions.feature",
+		"/Users/felipearaujo/src/banff/features/support/email_spec.rb",
+		"/Users/felipearaujo/src/banff/Gemfile",
+		"/Users/felipearaujo/src/banff/app/presenters/interaction_presenter.rb",
+		"/Users/felipearaujo/src/banff/app/decorators/interaction_decorator.rb",
+		"/Users/felipearaujo/src/banff/app/models/patient_interaction.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/interaction.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/has_source_object.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/data_privacy.rb",
+		"/Users/felipearaujo/src/banff/app/values/interaction_status_options.rb",
+		"/Users/felipearaujo/src/banff/app/assets/javascripts/beta/related_interactions.js.coffee",
+		"/Users/felipearaujo/src/banff/app/presenters/open_issue_presenter.rb",
+		"/Users/felipearaujo/src/banff/features/rounding/issues/related_interactions.feature",
+		"/Users/felipearaujo/src/banff/spec/controllers/concerns/evolve_product_spec.rb",
+		"/Users/felipearaujo/src/banff/.gitlab-ci.yml",
+		"/Users/felipearaujo/src/banff/exe/upload_knapsack_reports",
+		"/Users/felipearaujo/src/banff/exe/sidekiq_keep_alive",
+		"/Users/felipearaujo/src/banff/app/services/sidekiq_keep_alive.rb",
+		"/Users/felipearaujo/src/banff/app/queries/base_query.rb",
+		"/Users/felipearaujo/src/banff/app/policies/staff_issue_access_policy.rb",
+		"/Users/felipearaujo/src/banff/app/policies/criteria_access_policy.rb",
+		"/Users/felipearaujo/src/banff/app/policies/base_access_policy.rb",
+		"/Users/felipearaujo/src/banff/app/models/user.rb",
+		"/Users/felipearaujo/src/banff/app/models/provider_info.rb",
+		"/Users/felipearaujo/src/banff/app/models/admin.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/user_can_access_all_care_providers.rb",
+		"/Users/felipearaujo/src/banff/app/services/provider_roles.rb",
+		"/Users/felipearaujo/src/banff/app/services/access_policies.rb",
+		"/Users/felipearaujo/src/banff/features/pathways/pathways_management.feature",
+		"/Users/felipearaujo/src/banff/app/controllers/pathways_controller.rb",
+		"/Users/felipearaujo/src/banff/app/criteria/criteria_filter.rb",
+		"/Users/felipearaujo/src/banff/app/models/criteria.rb",
+		"/Users/felipearaujo/src/banff/app/values/rule_operator.rb",
+		"/Users/felipearaujo/src/banff/app/models/criteria_rule.rb",
+		"/Users/felipearaujo/src/banff/app/models/criteria_condition.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/encounter_criteria_filter.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/unit_criteria_filter.rb",
+		"/Users/felipearaujo/src/banff/app/search/queries/patients_search_query.rb",
+		"/Users/felipearaujo/src/banff/spec/search/queries/patients_search_query_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/support/shared/criteria_helpers.rb",
+		"/Users/felipearaujo/src/banff/spec/support/shared/singletons.rb",
+		"/Users/felipearaujo/src/banff/features/voice/phone_blacklist_manage.feature",
+		"/Users/felipearaujo/src/banff/app/controllers/blacklisted_phones_controller.rb",
+		"/Users/felipearaujo/src/banff/app/models/blacklisted_phones_view.rb",
+		"/Users/felipearaujo/src/banff/app/presenters/blacklisted_phones_presenter.rb",
+		"/Users/felipearaujo/src/banff/app/queries/blacklisted_phones_query.rb",
+		"/Users/felipearaujo/src/banff/config/datadog.yml",
+		"/Users/felipearaujo/src/banff/app/models/question.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/outreach_action_item.rb",
+		"/Users/felipearaujo/src/banff/app/models/concerns/sms_text.rb",
+		"/Users/felipearaujo/src/banff/app/services/call_service/launch_chunk.rb",
+		"/Users/felipearaujo/src/banff/app/decorators/subpanel_decorator.rb",
+		"/Users/felipearaujo/src/banff/app/decorators/issue_field_decorator.rb",
+		"/Users/felipearaujo/src/banff/spec/blueprint/controllers/link/plans_controller_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/blueprint/clients/ihealth_client_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/controllers/audio_instructions_controller_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/workers/update_criteria_key_names_worker_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/models/issue_alert_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/search/filters/criteria_search_filter_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/workers/update_provider_role_criteria_field_worker_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/controllers/manual_interactions_controller_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/services/data_exchange/encounter_merge_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/services/data_exchange/patient_merge_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/factories/patients_factory.rb",
+		"/Users/felipearaujo/src/banff/spec/features/outreach_blockages/block_patient_spec.rb",
+		"/Users/felipearaujo/src/banff/app/presenters/pathway_patients_presenter.rb",
+		"/Users/felipearaujo/src/banff/app/search/queries/pathway_patients_search_query.rb",
+		"/Users/felipearaujo/src/banff/app/controllers/angular/survey_devices_controller.rb",
+		"/Users/felipearaujo/src/banff/app/search/queries/outreach_blockages_search_query.rb",
+		"/Users/felipearaujo/src/banff/app/queries/outreach_blockages_query.rb",
+		"/Users/felipearaujo/src/banff/app/search/queries/units_search_query.rb",
+		"/Users/felipearaujo/src/banff/app/queries/units_query.rb",
+		"/Users/felipearaujo/src/banff/app/search/queries/encounters_search_query.rb",
+		"/Users/felipearaujo/src/banff/app/controllers/vue/outreach_blockages_controller.rb",
+		"/Users/felipearaujo/src/banff/lib/queryable/search.rb",
+		"/Users/felipearaujo/src/banff/app/search/queries/quick_patients_search_query.rb",
+		"/Users/felipearaujo/src/banff/.circleci/config.yml",
+		"/Users/felipearaujo/src/banff/exe/chunk_of_specs",
+		"/Users/felipearaujo/src/banff/exe/gitlab/chunk_of_cukes",
+		"/Users/felipearaujo/src/banff/spec/exe/hl7_imports_starter_spec.rb",
+		"/Users/felipearaujo/src/banff/exe/hl7_imports_starter",
+		"/Users/felipearaujo/src/banff/spec/daemon_helper.rb",
+		"/Users/felipearaujo/src/banff/spec/controllers/concerns/evolve_permissions_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/features/migrations_spec.rb",
+		"/Users/felipearaujo/src/banff/exe/gitlab/no_parallel_cukes",
+		"/Users/felipearaujo/src/banff/spec/requests/api/v8/authentication_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/features/atlas/survey_from_task_spec.rb",
+		"/Users/felipearaujo/src/banff/spec/features/rounding/all_patient_question_types_spec.rb",
+		"/Users/felipearaujo/src/banff/features/step_definitions/patient_steps.rb",
+		"/Users/felipearaujo/src/banff/knapsack_rspec_report.json",
+		"/Users/felipearaujo/src/banff/features/step_definitions/enrollment_steps.rb",
+		"/Users/felipearaujo/src/banff/integration_test_helpers/email_test_helper.rb",
+		"/Users/felipearaujo/src/banff/spec/support/shared/mail_helpers.rb",
+		"/Users/felipearaujo/src/banff/app/blueprint_exports/pam_levels_export.rb",
+		"/Users/felipearaujo/src/banff/spec/spec_helper.rb",
+		"/Users/felipearaujo/src/banff/spec/support/test_care_provider.rb",
+		"/Users/felipearaujo/src/banff/spec/support/test_routes.rb",
+		"/Users/felipearaujo/src/banff/app/controllers/concerns/api_controller_with_draper.rb",
+		"/Users/felipearaujo/src/banff/features/spoc/mirth_integration.feature",
+		"/Users/felipearaujo/src/banff/exe/no_parallel_cukes",
+		"/Users/felipearaujo/src/banff/spec/spec_helper_lite.rb",
+		"/Users/felipearaujo/src/banff/app/assets/javascripts/channels/page_visitors.coffee",
+		"/Users/felipearaujo/src/banff/app/services/data_exchange/hl7_connection_tester.rb",
+		"/Users/felipearaujo/src/banff/lib/environment_inquirer.rb",
+		"/Users/felipearaujo/src/banff/circleci-dockerfile",
+		"/Users/felipearaujo/src/banff/spec/support/mongoid.test.yml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/app/javascript/packs/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/Procfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/yarn.lock",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 334282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/felipearaujo/src/zype_videos/zype_videos/config/environments/development.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 21.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "zype.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "zype.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"application.html",
+				"zype_videos/app/views/layouts/application.html.erb"
+			],
+			[
+				"development",
+				"zype_videos/config/environments/development.rb"
+			],
+			[
+				"routes.",
+				"zype_videos/config/routes.rb"
+			],
+			[
+				"applicatio",
+				"zype_videos/app/assets/javascripts/application.js"
+			],
+			[
+				"",
+				"lib/call_surfer/flow.rb"
+			],
+			[
+				"flow",
+				"lib/call_surfer/flow.rb"
+			],
+			[
+				"inter",
+				"lib/call_surfer/interaction.rb"
+			],
+			[
+				"cleaner",
+				"lib/call_surfer/cleaner_query.rb"
+			],
+			[
+				"call_",
+				"lib/call_surfer.rb"
+			],
+			[
+				"action.rb",
+				"lib/call_surfer/core/action.rb"
+			],
+			[
+				"provider_res",
+				"lib/call_surfer/core/provider_response.rb"
+			],
+			[
+				"inteac",
+				"lib/call_surfer/interaction.rb"
+			],
+			[
+				"action.",
+				"lib/call_surfer/core/action.rb"
+			],
+			[
+				"surfer.",
+				"app/surfer.rb"
+			],
+			[
+				"surfer",
+				"app/surfer.rb"
+			],
+			[
+				"f",
+				"lib/call_surfer/flow.rb"
+			],
+			[
+				"cleaner.",
+				"lib/call_surfer/cleaner.rb"
+			],
+			[
+				"intera",
+				"lib/call_surfer/interaction.rb"
+			],
+			[
+				"find",
+				"Find Results"
+			],
+			[
+				"schedul",
+				"config/schedule.rb"
+			],
+			[
+				"logge",
+				"exe/logged_rake"
+			],
+			[
+				"logged",
+				"exe/logged_rake"
+			],
+			[
+				"clean",
+				"lib/call_surfer/cleaner.rb"
+			],
+			[
+				"remote_frin",
+				"lib/call_surfer/remote_friend.rb"
+			],
+			[
+				"schedule",
+				"config/schedule.rb"
+			],
+			[
+				"gitlab",
+				".gitlab-ci.yml"
+			],
+			[
+				"starter",
+				"lib/call_surfer/twilio_driver/starter.rb"
+			],
+			[
+				"starter_spec",
+				"spec/call_surfer/twilio_driver/starter_spec.rb"
+			],
+			[
+				"response",
+				"lib/call_surfer/twilio_driver/response.rb"
+			],
+			[
+				"twilio_dri",
+				"lib/call_surfer/twilio_driver.rb"
+			],
+			[
+				"starter.",
+				"lib/call_surfer/twilio_driver/starter.rb"
+			],
+			[
+				"continue",
+				"lib/call_surfer/core/continue_action.rb"
+			],
+			[
+				"response.rb",
+				"lib/call_surfer/twilio_driver/response.rb"
+			],
+			[
+				"surfer.r",
+				"app/surfer.rb"
+			],
+			[
+				"flow.",
+				"lib/call_surfer/flow.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"attempt_st",
+				"app/values/attempt_status.rb"
+			],
+			[
+				"attempt_St",
+				"app/values/attempt_status.rb"
+			],
+			[
+				"related_interaction.",
+				"app/views/issues/_related_interaction.html.haml"
+			],
+			[
+				"related_in",
+				"features/voice/issues/related_interactions.feature"
+			],
+			[
+				"related_interaction_sp",
+				"features/step_definitions/related_interaction_steps.rb"
+			],
+			[
+				"related_inter",
+				"features/step_definitions/related_interaction_steps.rb"
+			],
+			[
+				"related_interac",
+				"features/step_definitions/related_interaction_steps.rb"
+			],
+			[
+				"related_interaction",
+				"app/presenters/related_interaction_presenter.rb"
+			],
+			[
+				"interaction_fac",
+				"spec/factories/interactions_factory.rb"
+			],
+			[
+				"interaction_prese",
+				"app/presenters/interaction_presenter.rb"
+			],
+			[
+				"related_interaction_pre",
+				"app/presenters/related_interaction_presenter.rb"
+			],
+			[
+				"related_interact",
+				"features/step_definitions/related_interaction_steps.rb"
+			],
+			[
+				"related_interactions.f",
+				"features/voice/issues/related_interactions.feature"
+			],
+			[
+				"related_interaction.h",
+				"app/views/issues/_related_interaction.html.haml"
+			],
+			[
+				"issues_",
+				"app/controllers/issues_controller.rb"
+			],
+			[
+				"base_de",
+				"app/decorators/base_decorator.rb"
+			],
+			[
+				"related_interaction_pr",
+				"app/presenters/related_interaction_presenter.rb"
+			],
+			[
+				"related_i",
+				"app/presenters/related_interactions_presenter.rb"
+			],
+			[
+				"related_interaction_",
+				"app/presenters/related_interaction_presenter.rb"
+			],
+			[
+				"related_intera",
+				"app/presenters/related_interactions_presenter.rb"
+			],
+			[
+				"patient_ine",
+				"app/models/patient_interaction.rb"
+			],
+			[
+				"interaction_pres",
+				"app/presenters/interaction_presenter.rb"
+			],
+			[
+				"interaction_deco",
+				"app/decorators/interaction_decorator.rb"
+			],
+			[
+				"interaction_pre",
+				"app/presenters/interaction_presenter.rb"
+			],
+			[
+				"patient_in",
+				"app/models/patient_interaction.rb"
+			],
+			[
+				"_interact",
+				"app/views/interactions/_interaction.haml"
+			],
+			[
+				"survey_interactions_ind",
+				"app/presenters/survey_device_interactions_index_presenter.rb"
+			],
+			[
+				"index_pres",
+				"app/presenters/patient_interactions_index_presenter.rb"
+			],
+			[
+				"survey_interactions",
+				"app/controllers/survey_interactions_controller.rb"
+			],
+			[
+				"surve_interaction",
+				"app/controllers/survey_interactions_controller.rb"
+			],
+			[
+				"interactions_con",
+				"app/controllers/interactions_controller.rb"
+			],
+			[
+				"related_interaction_pres",
+				"app/presenters/related_interaction_presenter.rb"
+			],
+			[
+				"base_enrol",
+				"app/services/enroll_service/base_enroller.rb"
+			],
+			[
+				"issues_contr",
+				"app/controllers/issues_controller.rb"
+			],
+			[
+				"base_enro",
+				"app/services/enroll_service/base_enroller.rb"
+			],
+			[
+				"interaction",
+				"app/models/concerns/interaction.rb"
+			],
+			[
+				"call_attempt_info",
+				"app/models/call_attempt_info.rb"
+			],
+			[
+				"related_",
+				"app/presenters/related_interactions_presenter.rb"
+			],
+			[
+				"base_en",
+				"app/services/enroll_service/base_enroller.rb"
+			],
+			[
+				"call_Attempt_in",
+				"app/models/call_attempt_info.rb"
+			],
+			[
+				"patient_inter",
+				"app/models/patient_interaction.rb"
+			],
+			[
+				"patient_int",
+				"app/models/patient_interaction.rb"
+			],
+			[
+				"interaction.",
+				"app/models/concerns/interaction.rb"
+			],
+			[
+				"interaction.rb",
+				"app/models/concerns/interaction.rb"
+			],
+			[
+				"patient",
+				"app/models/patient_interaction.rb"
+			],
+			[
+				"related_interaction_s",
+				"features/step_definitions/related_interaction_steps.rb"
+			],
+			[
+				"issues_con",
+				"app/controllers/issues_controller.rb"
+			],
+			[
+				"interaction.r",
+				"app/models/concerns/interaction.rb"
+			],
+			[
+				"base_enroll",
+				"app/services/enroll_service/base_enroller.rb"
+			],
+			[
+				"open_issues_co",
+				"app/controllers/api/orchid/open_issues_controller.rb"
+			],
+			[
+				"related_interaction.fe",
+				"features/voice/issues/related_interactions.feature"
+			],
+			[
+				"interact.rb",
+				"app/models/concerns/interaction.rb"
+			],
+			[
+				"interaction_dec",
+				"app/decorators/interaction_decorator.rb"
+			],
+			[
+				"survey_inter",
+				"app/models/survey_interaction.rb"
+			],
+			[
+				"patient_survet",
+				"app/controllers/patient_survey_interactions_controller.rb"
+			],
+			[
+				"show_in",
+				"features/interactions/show_interaction.feature"
+			],
+			[
+				"interaction_de",
+				"app/decorators/interaction_decorator.rb"
+			],
+			[
+				"interaction_d",
+				"app/decorators/interaction_decorator.rb"
+			],
+			[
+				"interaction_Stat",
+				"app/values/interaction_status_options.rb"
+			],
+			[
+				"patient_inte",
+				"app/models/patient_interaction.rb"
+			],
+			[
+				"revaluate_not",
+				"app/workers/reevaluate_not_matching_calls_worker.rb"
+			],
+			[
+				"reevalua",
+				"app/workers/reevaluate_calls_worker.rb"
+			],
+			[
+				"outreach",
+				"app/models/outreach_action.rb"
+			],
+			[
+				"outreach_program_en",
+				"app/services/enroll_service/outreach_program_enroller.rb"
+			],
+			[
+				"outreach_ac",
+				"app/models/outreach_action.rb"
+			],
+			[
+				"related",
+				"features/voice/issues/related_interactions.feature"
+			],
+			[
+				"emailspec",
+				"features/support/email_spec.rb"
+			],
+			[
+				"related_inte",
+				"features/step_definitions/related_interaction_steps.rb"
+			],
+			[
+				"relate",
+				"features/step_definitions/related_settings_steps.rb"
+			],
+			[
+				"related_interactions_sp",
+				"spec/presenters/issues/related_interactions_presenter_spec.rb"
+			],
+			[
+				"question.",
+				"app/models/question.rb"
+			],
+			[
+				"datadog",
+				"config/datadog.yml"
+			],
+			[
+				"sidekiqkeep",
+				"app/services/sidekiq_keep_alive.rb"
+			],
+			[
+				"sidekiq",
+				"exe/sidekiq_keep_alive"
+			],
+			[
+				"uplo",
+				"exe/upload_knapsack_reports"
+			],
+			[
+				"gitl",
+				".gitlab-ci.yml"
+			],
+			[
+				"patients_Search_query",
+				"spec/search/queries/patients_search_query_spec.rb"
+			],
+			[
+				"outreach_blockages_sp",
+				"spec/features/outreach_blockages/block_patient_spec.rb"
+			],
+			[
+				"patient_search_",
+				"app/search/queries/patients_search_query.rb"
+			],
+			[
+				"pathway",
+				"app/controllers/pathways_controller.rb"
+			],
+			[
+				"pathways",
+				"features/pathways/pathways_management.feature"
+			],
+			[
+				"access_poli",
+				"app/policies/criteria_access_policy.rb"
+			],
+			[
+				"admin",
+				"app/models/admin.rb"
+			],
+			[
+				"providerrol",
+				"app/services/provider_roles.rb"
+			],
+			[
+				"patient_search_q",
+				"app/search/queries/patients_search_query.rb"
+			],
+			[
+				"blacklist_pho",
+				"app/controllers/blacklisted_phones_controller.rb"
+			],
+			[
+				"phone_black",
+				"features/voice/phone_blacklist_manage.feature"
+			],
+			[
+				"patients_search_quer",
+				"spec/search/queries/patients_search_query_spec.rb"
+			],
+			[
+				"patients_seach_qu",
+				"app/search/queries/patients_search_query.rb"
+			],
+			[
+				"patients_sea",
+				"app/search/queries/patients_search_query.rb"
+			],
+			[
+				"patients_search_qu",
+				"app/search/queries/patients_search_query.rb"
+			],
+			[
+				"quick_search_quer",
+				"app/search/queries/quick_patients_search_query.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 330.0,
+		"last_filter": "restrict_by_",
+		"selected_items":
+		[
+			[
+				"restrict_by_",
+				"restrict_by_criteria"
+			],
+			[
+				"matches_cri",
+				"matches_criteria?"
+			],
+			[
+				"matches_criteri",
+				"matches_criteria?"
+			],
+			[
+				"schedule_nw",
+				"schedule_new"
+			],
+			[
+				"enable_",
+				"enable_dynamic_fields"
+			],
+			[
+				"check_all",
+				"check_all"
+			],
+			[
+				"schedule_new",
+				"schedule_new"
+			],
+			[
+				"in_small_ba",
+				"in_small_batches"
+			],
+			[
+				"build_messag",
+				"build_message"
+			],
+			[
+				"broadcast",
+				"broadcast"
+			],
+			[
+				"optimized_col",
+				"optimized_collection"
+			],
+			[
+				"render_das",
+				"render_dashboard"
+			],
+			[
+				"render_dashbo",
+				"render_dashboard"
+			],
+			[
+				"preview",
+				"preview"
+			],
+			[
+				"mailer_ima",
+				"mailer_image_url"
+			],
+			[
+				"asset_url",
+				"assert_url"
+			],
+			[
+				"image_url",
+				"image_url"
+			],
+			[
+				"titleTempa",
+				"titleTemplate"
+			],
+			[
+				"pageti",
+				"pageTitle"
+			],
+			[
+				"pagetitl",
+				"pageTitle"
+			],
+			[
+				"getUrls",
+				"getUrls"
+			]
+		],
+		"width": 723.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 423.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
