@@ -1,5 +1,7 @@
 <template>
-  <VideoList :videos='videos'/>
+  <v-container>
+    <VideoList :videos='videos'/>
+  </v-container>
 </template>
 
 <script>
@@ -34,7 +36,6 @@
 
 <style scoped>
   p {
-    font-size: 2em;
     text-align: center;
   }
 </style>
