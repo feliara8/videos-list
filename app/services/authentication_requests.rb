@@ -9,8 +9,8 @@ class AuthenticationRequests
 
   def signin(username, password)
     self.class.post("/oauth/token", { query: { 
-    	client_id: @client_id, client_secret: @client_secret,
-    	username: username, password: password, grant_type: 'password'
+      client_id: @client_id, client_secret: @client_secret,
+      username: username, password: password, grant_type: 'password'
     }})
   end
 end
