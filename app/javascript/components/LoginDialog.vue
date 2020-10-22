@@ -26,6 +26,7 @@
           :counter="10"
           label="Password"
           required
+          type="password"
           @input="$v.password.$touch()"
           @blur="$v.password.$touch()"
         ></v-text-field>
@@ -36,6 +37,9 @@
         >
           Login
         </v-btn>
+        <span v-if="showBadEmailOrPassword" class="red--text">
+          Bad email or password
+        </span>
       </form>
     </v-card>
   </v-dialog>
@@ -76,14 +80,30 @@
     },
     methods: {
       login() {
-        this.$store.dispatch('login', { user: this.email,
-          password: this.password }).then(() => {
-          this.dialog = false
-        })
+        if (!this.$v.$invalid) {
+          this.$store.dispatch('login', { user: this.email,
+            password: this.password }).then(() => {
+            this.dialog = false
+          }).catch(() =>{
+            this.showBadEmailOrPassword = true
+          })
+        }
+      },
+      clearForm() {
+        this.$v.$reset()
+        this.password = ''
+        this.email = ''
+        this.showBadEmailOrPassword = false
+      }
+    },
+    watch: {
+      dialog (val) {
+        !val && this.clearForm()
       }
     },
     data: function () {
       return {
+        showBadEmailOrPassword: false,
         email: "",
         password: "",
         dialog: false,

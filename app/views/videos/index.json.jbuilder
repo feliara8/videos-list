@@ -8,3 +8,5 @@ json.videos @videos['response'] do |video|
   json.youtube_id video['youtube_id']
   json.subscription_required video['subscription_required']
 end
+
+json.pagination @videos['pagination']

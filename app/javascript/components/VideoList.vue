@@ -3,6 +3,13 @@
     <h1 class="subheading grey--text">Videos List</h1>
 
     <v-container class="my-5">
+
+      <v-text-field
+        label="Search"
+        @input="debouncedSearch()"
+        v-model="q"
+        filled
+      ></v-text-field>
       
       <v-card flat v-for="video in videos" :key="video.id">
         <v-row wrap class="pa-6" >
@@ -28,7 +35,18 @@
         </v-row>
         <v-divider></v-divider>
       </v-card>
-
+      <v-row justify="center">
+        <v-col cols="8">
+          <v-container class="max-width">
+            <v-pagination
+              v-model="page"
+              @input="search()"
+              class="my-4"
+              :length="pages"
+            ></v-pagination>
+          </v-container>
+        </v-col>
+      </v-row>
     </v-container>  
   </div>
 </template>
@@ -36,6 +54,8 @@
 <script>
   import VideoDialog from './VideoDialog.vue'
   import LoginDialog from './LoginDialog.vue'
+  import axios from 'axios'
+  import lodash from 'lodash'
 
   export default {
     name: 'VideoList',
@@ -43,19 +63,35 @@
       VideoDialog,
       LoginDialog,
     },
-    props: {
-      videos: { type: Array, default: () => [] },
+    data: function () {
+      return {
+        videos: [],
+        page: 0,
+        pages: 0,
+        q: ""
+      }
     },
     computed: {
       isLoggedIn : function() { return this.$store.getters.isLoggedIn }
     },
     methods: {
-      // Internal: Refreshes the search results after a change is made.
-      play(videoId) {
-        this.currentVideoId = videoId
+      debouncedSearch: lodash.debounce(function () { this.search() }, 1000),
+      search() {
+        axios.get('/videos', {
+          params: {
+            q: this.q,
+            page: this.page,
+          },
+        }).then(response => {
+          this.videos = response['data']['videos']
+          this.page = response['data']['pagination']['current']
+          this.pages = response['data']['pagination']['pages']
+        })
       }
+    },
+    created () {
+      this.search()
     }
-
   }
 </script>
 

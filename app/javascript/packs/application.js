@@ -9,13 +9,13 @@ import 'vuetify/dist/vuetify.min.css'
 
 const vuetify = new Vuetify({
     icons: {
-        iconfont: 'md'
+        iconfont: 'mdi'
     }
 });
 
 Vue.use(Vuetify, {
     icons: {
-        iconfont: 'md'
+        iconfont: 'mdi'
     }
 })
 
