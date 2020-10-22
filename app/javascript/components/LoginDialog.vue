@@ -1,14 +1,14 @@
 <template>
   <v-dialog class="white" max-width="600px" v-model="dialog">
     <template v-slot:activator="{ on, attrs }">
-      <v-btn
-        color="blue lighten-2"
-        dark
+      <v-img
+        :lazy-src="`${thumbnailUrl}`"
+        max-height="60"
+        max-width="100"
         v-bind="attrs"
         v-on="on"
-      >
-        Login
-      </v-btn>
+        :src="`${thumbnailUrl}`"
+      ></v-img>
     </template>
     <v-card class="py-5 px-10">
       <form>
@@ -55,7 +55,6 @@
     name: 'LoginDialog',
     props: {
       thumbnailUrl: { type: String, default: "" },
-      showThumbnail: { type: Boolean, default: false },
       videoId: { type: String, default: "" },
     },
     validations: {

@@ -1,7 +1,7 @@
 <template>
   <v-dialog max-width="600px" v-model="dialog">
 
-    <template v-if="showThumbnail"  v-slot:activator="{ on, attrs }">
+    <template v-slot:activator="{ on, attrs }">
       <v-img
         :lazy-src="`${thumbnailUrl}`"
         max-height="60"
@@ -10,16 +10,6 @@
         v-on="on"
         :src="`${thumbnailUrl}`"
       ></v-img>
-    </template>
-    <template v-else v-slot:activator="{ on, attrs }">
-      <v-btn
-        color="green lighten-2"
-        dark
-        v-bind="attrs"
-        v-on="on"
-      >
-        Play
-      </v-btn>
     </template>
     <iframe ref="videoDialog" width="560" height="315" :src="`//www.youtube.com/embed/${videoId}`" frameborder="0" allowfullscreen></iframe>
     <v-divider></v-divider>
@@ -31,13 +21,15 @@
     name: 'VideoDialog',
     props: {
       thumbnailUrl: { type: String, default: "" },
-      showThumbnail: { type: Boolean, default: false },
       videoId: { type: String, default: "" },
     },
     watch: {
       dialog (val) {
         !val && this.pauseVideo()
       }
+    },
+    computed: {
+      isLoggedIn : function() { return this.$store.getters.isLoggedIn }
     },
     methods: {
       // Internal: Refreshes the search results after a change is made.

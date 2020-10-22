@@ -19,19 +19,13 @@
           </v-col>
           <v-col xs6 sm4 md2 align="center" justify="center">
             <div class="caption grey--text">Thumbnail</div>
-            <VideoDialog showThumbnail :thumbnailUrl="video.thumbnail.url" :videoId="video.youtube_id"/>
+            <VideoDialog v-if="!video.subscription_required || isLoggedIn" :thumbnailUrl="video.thumbnail.url" :videoId="video.youtube_id"/>
+            <LoginDialog v-else :thumbnailUrl="video.thumbnail.url" :videoId="video.youtube_id"/>
           </v-col>
           <v-col xs6 sm4 md2 align="center" justify="center">
             <div class="caption grey--text">Subscription Required</div>
             <div>{{ video.subscription_required ? 'Yes' : 'No' }}</div>
           </v-col>
-          <v-row v-if="isLoggedIn || !video.subscription_required" xs2 sm4 md2 align="center" justify="center">
-            <VideoDialog :videoId="video.youtube_id"/> 
-          </v-row>
-          <v-row v-if="!isLoggedIn && video.subscription_required" xs2 sm4 md2 align="center" justify="center">
-            <LoginDialog/> 
-          </v-row>
-
         </v-row>
         <v-divider></v-divider>
       </v-card>

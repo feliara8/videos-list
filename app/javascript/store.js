@@ -35,7 +35,7 @@ export default new Vuex.Store({
           const token = resp.data.access_token
           if (token) {
             localStorage.setItem('token', token)
-            axios.defaults.headers.common['App-Key'] = token
+            axios.defaults.headers.common['access_token'] = token
             commit('auth_success', token, user)
             resolve(resp)
           } else {
@@ -54,7 +54,7 @@ export default new Vuex.Store({
       return new Promise((resolve, reject) => {
         commit('logout')
         localStorage.removeItem('token')
-        delete axios.defaults.headers.common['App-Key']
+        delete axios.defaults.headers.common['access_token']
         resolve()
     })
 }
